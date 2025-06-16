@@ -1,15 +1,54 @@
-# 🌐 Personal Portfolio Website
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
 
-Welcome to my personal portfolio website! This project showcases my work, skills, and background as a web developer. Built using **HTML**, **CSS**, and **JavaScript**, it's a fully responsive and interactive site designed to make a strong first impression.
+  <br />
+  <br />
 
+  <h2 align="center">Personal Portfolio Website</h2>
 
-## 🛠️ Built With
+  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-- **HTML5** – For structuring content
-- **CSS3** – For styling and layout
-- **JavaScript** – For interactivity and dynamic behavior
+  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
 
-## 🧩 Conclusion
-Thank you for taking the time to explore my portfolio! This website represents my journey as a developer, showcasing my skills, projects, and passion for building clean, functional, and user-friendly web experiences. I'm always eager to learn, collaborate, and take on new challenges.
+</div>
 
-If you’d like to work together, have a question, or just want to connect — feel free to reach out through the contact form or any of the links provided. Let’s build something great together!
+<br />
+
+### Demo Screeshots
+
+![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **Portfolio** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/portfolio.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
