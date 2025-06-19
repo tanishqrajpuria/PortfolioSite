@@ -64,9 +64,6 @@ bash
 git clone https://github.com/tanishqrajpuria/portfolio-website.git
 cd portfolio-website
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
