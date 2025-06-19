@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This responsive and modern website is designed to showcase my skills, projects, publications, and contact information. Built using **HTML**, **CSS**, and **JavaScript**, it's a clean and interactive platform to explore my work.
 <div align="center">
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="genuine-pika-da9fd0.netlify.app"><strong>➥ Live Demo</strong></a>
 </div>
 ---
 
