@@ -1,49 +1,68 @@
+# 🌐 Personal Portfolio Website - Tanishq Rajpuria
+
+Welcome to my personal portfolio website! This responsive and modern website is designed to showcase my skills, projects, publications, and contact information. Built using **HTML**, **CSS**, and **JavaScript**, it's a clean and interactive platform to explore my work.
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
-
-  <br />
-  <br />
-
-  <h2 align="center">Personal Portfolio Website</h2>
-
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
   <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
-
 </div>
+---
 
-<br />
+## 📌 Features
 
-### Demo Screeshots
+- ✅ Responsive design for desktop and mobile
+- ✅ Smooth scroll and animated navigation
+- ✅ Portfolio section with featured projects
+- ✅ Publications section
+- ✅ Skills with animated progress bars
+- ✅ Contact form integrated with EmailJS
+- ✅ Downloadable Resume (PDF)
+- ✅ Back-to-top button
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+---
 
-### Prerequisites
+## 🧑‍💻 Tech Stack
 
-Before you begin, ensure you have met the following requirements:
+- **HTML5**
+- **CSS3** (Custom properties, Flex/Grid, Media queries)
+- **JavaScript** (Vanilla JS, DOM manipulation)
+- **EmailJS** (Form handling without backend)
+- **Ionicons** (Modern icon set)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+---
 
-### Run Locally
+## 📁 Folder Structure
 
-To run **Portfolio** locally, run this command on your git bash:
+📦 project-root/
+│
 
-Linux and macOS:
+├── index.html # Main HTML file
 
-```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
-```
+├── assets/
 
-Windows:
+│ ├── css/
 
-```bash
-git clone https://github.com/codewithsadee/portfolio.git
-```
+│ │ └── style.css # Custom styling
+
+│ ├── js/
+
+│ │ └── script.js # JS for interaction
+
+│ ├── images/ # Images used (profile, projects)
+
+│ └── files/
+
+│ └── Resume_23.pdf # Your resume
+
+
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+bash
+git clone https://github.com/tanishqrajpuria/portfolio-website.git
+cd portfolio-website
 
 ### Contact
 
