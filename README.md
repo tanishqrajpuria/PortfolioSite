@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This responsive and modern website is designed to showcase my skills, projects, publications, and contact information. Built using **HTML**, **CSS**, and **JavaScript**, it's a clean and interactive platform to explore my work.
 <div align="center">
-  <a href="genuine-pika-da9fd0.netlify.app"><strong>➥ Live Demo</strong></a>
+  <a href="https://spontaneous-twilight-3bbd9a.netlify.app/"><strong>➥ Live Demo</strong></a>
 </div>
 ---
 
